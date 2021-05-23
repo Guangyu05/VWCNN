@@ -167,5 +167,3 @@ for i in range(1,6):
     print(acc)
     if acc > 0.98 and acc < 1:
       net.save_parameters('/content/drive/MyDrive/New_VWCNN/CNN.params')
-
-    # 1 1 1 1 1
