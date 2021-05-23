@@ -147,7 +147,6 @@ for i in range(1,6):
             self.dense4_1 = nn.Dense(100, activation='sigmoid')
             self.dense_w = nn.Dense(2, activation='sigmoid')
 
-    #将tuning NN改成两个及以上dense layers，i.e.,dense+dense+...，注意让得到的数变为正值以保证梯度下降        
 
             #self.dropout = nn.Dropout(0.8)
 
