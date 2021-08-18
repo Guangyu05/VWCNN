@@ -1,3 +1,5 @@
+## All the code in this file is from 'https://github.com/IBM/seizure-type-classification-tuh/tree/master/data_preparation'. As the original file has several typos, I tried to correct them in this file.
+
 import os
 import sys
 print('Current working path is %s' % str(os.getcwd()))
